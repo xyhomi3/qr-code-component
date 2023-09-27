@@ -13,7 +13,7 @@ This project is a solution to the QR code component challenge. It involves creat
 
 ### Links
 
-- [Solution URL]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-qr-code-card-using-html-and-css-grid-81ldR3S896))
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-card-using-html-and-css-grid-81ldR3S896) 
 - [Live Site URL](https://xyhomi3.github.io/qr-code-component)
 
 ## My Process
