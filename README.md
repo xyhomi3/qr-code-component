@@ -2,7 +2,7 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-<div align="center">
+<div align="left">
   <img src="./images/Desktop.png" alt="Screenshot Desktop" width="682.5" />
   <img src="./images/Mobile.png" alt="Screenshot Mobile" width="200" />
 </div>
